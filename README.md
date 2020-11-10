@@ -25,3 +25,4 @@ $ cd dlib-(versão)
 ```
 
 ### atualizacão
+https://anaconda.org/conda-forge/face_recognition
