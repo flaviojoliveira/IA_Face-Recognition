@@ -12,7 +12,7 @@ Para a execucão deste laboratório crie a seguinte estrutura:
   - Instalacão do Dlib
   http://dlib.net/
 
-# O que fazer!
+# O que fazer:
 
   ### Após instalacão do Anaconda e Cmake
   - Com o prompt de comando crie uma pasta (nome sugerido: *face-recognition* ) para execucão do projeto.
