@@ -28,3 +28,10 @@ $ cd dlib-(versão)
 https://anaconda.org/conda-forge/face_recognition
 
 ##### update repositório.
+1 #coding: utf-8
+2 meu_nome = "Sintaxes Python"
+3 meu_nick = 'Devmedia'
+4 print ("Nome: %s, Nick: %s" % (meu_nome.upper(), meu_nick))
+5 print ("Meu nome comeca com a letra ", meu_nome[0])
+6 print ("Meu nome comeca com a letra ", meu_nome[0].lower())
+7 print ("Meu primeiro nome é ", meu_nome[0:7])
