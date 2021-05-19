@@ -37,3 +37,12 @@ https://anaconda.org/conda-forge/face_recognition
 7 print ("Meu primeiro nome é ", meu_nome[0:7])
 
 Editar 04_identy_2.py
+
+##### update repositório.
+1 #coding: utf-8-1
+2 meu_nome = "Sintaxes Python"
+3 meu_nick = 'Devmedia1'
+4 print ("Nome: %s, Nick: %s" % (meu_nome.upper(), meu_nick))
+5 print ("Meu nome comeca com a letra ", meu_nome[0])
+6 print ("Meu nome comeca com a letra ", meu_nome[0].lower())
+7 print ("Meu primeiro nome é ", meu_nome[0:8])
