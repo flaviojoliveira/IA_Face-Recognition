@@ -35,3 +35,5 @@ https://anaconda.org/conda-forge/face_recognition
 5 print ("Meu nome comeca com a letra ", meu_nome[0])
 6 print ("Meu nome comeca com a letra ", meu_nome[0].lower())
 7 print ("Meu primeiro nome é ", meu_nome[0:7])
+
+Editar 04_identy_2.py
